@@ -494,7 +494,7 @@ section .title::after {
 }
 
 .skills-content .right .bars .js::before {
-    width: 50%;
+    width: 30%;
 }
 
 .skills-content .right .bars .bootstrap::before {
@@ -502,7 +502,7 @@ section .title::after {
 }
 
 .skills-content .right .bars .figma::before {
-    width: 10%;
+    width: 50%;
     color: #fff;
 }
 
